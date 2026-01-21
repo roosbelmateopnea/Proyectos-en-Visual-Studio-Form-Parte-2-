@@ -1,0 +1,11 @@
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\bin\Debug\ejemploHerencia.exe.config
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\bin\Debug\ejemploHerencia.exe
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\bin\Debug\ejemploHerencia.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\obj\Debug\ejemploHerencia.csproj.AssemblyReference.cache
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\obj\Debug\ejemploHerencia.Form1.resources
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\obj\Debug\ejemploHerencia.Properties.Resources.resources
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\obj\Debug\ejemploHerencia.csproj.GenerateResource.cache
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\obj\Debug\ejemploHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\obj\Debug\ejemploHerencia.exe
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\obj\Debug\ejemploHerencia.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\ejemploHerencia\ejemploHerencia\obj\Debug\ejemploHerencia.exe.config

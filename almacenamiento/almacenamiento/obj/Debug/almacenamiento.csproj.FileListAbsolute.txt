@@ -1,0 +1,21 @@
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\bin\Debug\almacenamiento.exe.config
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\bin\Debug\almacenamiento.exe
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\bin\Debug\almacenamiento.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\obj\Debug\almacenamiento.csproj.AssemblyReference.cache
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\obj\Debug\almacenamiento.Form1.resources
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\obj\Debug\almacenamiento.Properties.Resources.resources
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\obj\Debug\almacenamiento.csproj.GenerateResource.cache
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\obj\Debug\almacenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\obj\Debug\almacenamiento.exe
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\obj\Debug\almacenamiento.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\almacenamiento\almacenamiento\obj\Debug\almacenamiento.exe.config
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\almacenamiento\almacenamiento\bin\Debug\almacenamiento.exe.config
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\almacenamiento\almacenamiento\bin\Debug\almacenamiento.exe
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\almacenamiento\almacenamiento\bin\Debug\almacenamiento.pdb
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\almacenamiento\almacenamiento\obj\Debug\almacenamiento.csproj.AssemblyReference.cache
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\almacenamiento\almacenamiento\obj\Debug\almacenamiento.Form1.resources
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\almacenamiento\almacenamiento\obj\Debug\almacenamiento.Properties.Resources.resources
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\almacenamiento\almacenamiento\obj\Debug\almacenamiento.csproj.GenerateResource.cache
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\almacenamiento\almacenamiento\obj\Debug\almacenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\almacenamiento\almacenamiento\obj\Debug\almacenamiento.exe
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\almacenamiento\almacenamiento\obj\Debug\almacenamiento.pdb
