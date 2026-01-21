@@ -1,0 +1,21 @@
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.AssemblyReference.cache
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\obj\Debug\ejercicio.Form1.resources
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\obj\Debug\ejercicio.Properties.Resources.resources
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.GenerateResource.cache
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\obj\Debug\ejercicio.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\ejercicio\ejercicio\obj\Debug\ejercicio.exe.config
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\ejercicio\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\ejercicio\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\ejercicio\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.AssemblyReference.cache
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\ejercicio\ejercicio\obj\Debug\ejercicio.Form1.resources
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\ejercicio\ejercicio\obj\Debug\ejercicio.Properties.Resources.resources
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.GenerateResource.cache
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\ejercicio\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\ejercicio\ejercicio\obj\Debug\ejercicio.pdb

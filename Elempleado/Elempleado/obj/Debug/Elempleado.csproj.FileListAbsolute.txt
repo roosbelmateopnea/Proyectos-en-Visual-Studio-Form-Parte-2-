@@ -1,0 +1,11 @@
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\bin\Debug\Elempleado.exe.config
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\bin\Debug\Elempleado.exe
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\bin\Debug\Elempleado.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\obj\Debug\Elempleado.csproj.AssemblyReference.cache
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\obj\Debug\Elempleado.Form1.resources
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\obj\Debug\Elempleado.Properties.Resources.resources
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\obj\Debug\Elempleado.csproj.GenerateResource.cache
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\obj\Debug\Elempleado.csproj.CoreCompileInputs.cache
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\obj\Debug\Elempleado.exe
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\obj\Debug\Elempleado.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\Elempleado\Elempleado\obj\Debug\Elempleado.exe.config
