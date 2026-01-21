@@ -1,0 +1,11 @@
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\bin\Debug\ExplicacionVideo.exe.config
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\bin\Debug\ExplicacionVideo.exe
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\bin\Debug\ExplicacionVideo.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\obj\Debug\ExplicacionVideo.csproj.AssemblyReference.cache
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\obj\Debug\ExplicacionVideo.Form1.resources
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\obj\Debug\ExplicacionVideo.Properties.Resources.resources
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\obj\Debug\ExplicacionVideo.csproj.GenerateResource.cache
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\obj\Debug\ExplicacionVideo.csproj.CoreCompileInputs.cache
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\obj\Debug\ExplicacionVideo.exe
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\obj\Debug\ExplicacionVideo.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\ExplicacionVideo\ExplicacionVideo\obj\Debug\ExplicacionVideo.exe.config

@@ -1,0 +1,11 @@
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\obj\Debug\Simulador Bancario.csproj.AssemblyReference.cache
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\obj\Debug\Simulador_Bancario.Form1.resources
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\obj\Debug\Simulador_Bancario.Properties.Resources.resources
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\obj\Debug\Simulador Bancario.csproj.GenerateResource.cache
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\obj\Debug\Simulador Bancario.csproj.CoreCompileInputs.cache
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\bin\Debug\Simulador Bancario.exe.config
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\bin\Debug\Simulador Bancario.exe
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\bin\Debug\Simulador Bancario.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\obj\Debug\Simulador Bancario.exe
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\obj\Debug\Simulador Bancario.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\Simulador Bancario\Simulador Bancario\obj\Debug\Simulador Bancario.exe.config

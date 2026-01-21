@@ -1,0 +1,20 @@
+C:\Users\Roosbel Mateo Peña\source\repos\andreaFormulario2\andreaFormulario2\bin\Debug\andreaFormulario2.exe.config
+C:\Users\Roosbel Mateo Peña\source\repos\andreaFormulario2\andreaFormulario2\bin\Debug\andreaFormulario2.exe
+C:\Users\Roosbel Mateo Peña\source\repos\andreaFormulario2\andreaFormulario2\bin\Debug\andreaFormulario2.pdb
+C:\Users\Roosbel Mateo Peña\source\repos\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.csproj.AssemblyReference.cache
+C:\Users\Roosbel Mateo Peña\source\repos\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.Form1.resources
+C:\Users\Roosbel Mateo Peña\source\repos\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.Properties.Resources.resources
+C:\Users\Roosbel Mateo Peña\source\repos\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.csproj.GenerateResource.cache
+C:\Users\Roosbel Mateo Peña\source\repos\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.csproj.CoreCompileInputs.cache
+C:\Users\Roosbel Mateo Peña\source\repos\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.exe
+C:\Users\Roosbel Mateo Peña\source\repos\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.pdb
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\andreaFormulario2\andreaFormulario2\bin\Debug\andreaFormulario2.exe.config
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\andreaFormulario2\andreaFormulario2\bin\Debug\andreaFormulario2.exe
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\andreaFormulario2\andreaFormulario2\bin\Debug\andreaFormulario2.pdb
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.csproj.AssemblyReference.cache
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.Form1.resources
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.Properties.Resources.resources
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.csproj.GenerateResource.cache
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.csproj.CoreCompileInputs.cache
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.exe
+C:\Users\Roosbel Mateo Peña\Desktop\TRABAJOS DE VISUAL STUDIO FORM\andreaFormulario2\andreaFormulario2\obj\Debug\andreaFormulario2.pdb
